@@ -6,7 +6,7 @@
 
 想做一些有意思的东西；
 
-![Visitor Count](https://profile-counter.glitch.me/bazhangya/count.svg)**人**看过我
+![Visitor Count](https://profile-counter.glitch.me/bazhangya/count.svg)**人看过我**
 
 QQ:515615456
 
