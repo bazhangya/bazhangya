@@ -10,7 +10,7 @@
 
 **被访问次数：**
 
-![Visitor Count](https://profile-counter.glitch.me/bazhangya/count.svg)
+![bazhangya's visit count](https://profile-counter.glitch.me/bazhangya/count.svg)
 
 **常用语言：**
 
