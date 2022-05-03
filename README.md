@@ -16,6 +16,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazhangya)](https://github.com/Christmas/github-readme-stats)
 
+
+![bazhangya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazhangya&show_icons=true&theme=tokyonight)
+
 QQ:515615456
 
 E-Mail:bazhangya@hotmail.com
